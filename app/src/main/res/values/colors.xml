@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimary">#99ccff</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorMain">#99ccff</color>
+    <color name="activity_login_hint">#ffd0d0d0</color>
+    <color name="activity_login_layoutbackground">#50FFFFFF</color>
+    <color name="activity_login_welcome">#ffffff</color>
+    <color name="activity_login_buttongd">#00000000</color>
+    <color name="activity_login_text">#99cc00</color>
+    <color name="setting_background">#88cccccc</color>
+    <color name="message_notifiy_promot">#a0000000</color>
+    <color name="setting_back">#cc0001</color>
 </resources>

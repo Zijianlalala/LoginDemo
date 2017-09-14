@@ -1,3 +1,65 @@
 <resources>
-    <string name="app_name">LoginDemo</string>
+    <string name="app_name">健康小助手</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_menu_item1">选项一</string>
+    <string name="navigation_menu_item2">选项二</string>
+    <string name="navigation_menu_item3">选项三</string>
+    <string name="navigation_menu_item4">选项四</string>
+    <string name="navigation_menu_shared">分享</string>
+    <string name="navigation_menu_aboutus">关于我们</string>
+    <string name="action_settings">设置</string>
+    <string name="activity_login_acount">账号：</string>
+    <string name="activity_login_password">密码：</string>
+    <string name="activity_login_login">登录</string>
+    <string name="activity_login_registered">没有密码？点我注册</string>
+    <string name="maincontent_item1">选项一</string>
+    <string name="maincontent_item2">选项二</string>
+    <string name="maincontent_item3">选项三</string>
+    <string name="maincontent_item4">选项四</string>
+    <string name="mainconten_top_top">健康小助手</string>
+    <string name="activity_login_acount_edit">请输入您的手机号</string>
+    <string name="activity_login_password_edit">请输入您的密码</string>
+    <string name="activity_login_forget">忘记密码？</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="activity_registered_name">昵称</string>
+    <string name="activity_registered_password_1">设置密码,长度大于6</string>
+    <string name="activity_registered_password_2">确认密码</string>
+    <string name="activity_registered_phonenumber">手机号</string>
+    <string name="activity_registered_phonesend">发送验证码</string>
+    <string name="activity_registered_reg">注册</string>
+    <string name="activity_registered_phonecount">验证码</string>
+    <string name="activity_forget1_button">确定</string>
+    <string name="activity_main_bar_right">搜索</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- 设置 -->
+    <string name="setting_account">账号管理</string>
+    <string name="setting_phonenummber">手机号码</string>
+    <string name="setting_meaasge">消息通知</string>
+    <string name="setting_clear">清理缓存</string>
+    <string name="setting_aboutus">关于健康助手</string>
+    <string name="setting_help">帮助与反馈</string>
+    <string name="setting_back">退出账号</string>
+    <!--消息通知设置-->
+    <string name="message_notifiy_healthy">健康助手通知</string>
+    <string name="message_notifiy_comment">评论我的文章</string>
+    <string name="message_notifiy_nonotifiy">免打扰模式</string>
+    <string name="message_notifiy_sound">声音</string>
+    <string name="message_notifiy_shock">震动</string>
+    <string name="message_notifiy_promet1">关闭后，那你的文章讲不允许其他人评论</string>
+    <string name="message_notifiy_promet2">开启后，将在23：00-8：00间不接受健康助手的通知（不包含提醒）</string>
+    <string name="message_notifiy_promet3">当健康助手在运行时，你可以设置是否需要声音或者震动</string>
+    <string name="message_notifiy">消息通知</string>
+    <!--帮助页面help-->
+    <string name="help_question">请写下您遇到的问题</string>
+    <string name="help_submit">提交</string>
+    <string name="help_hint">谢谢您的意见，我们会更加努力地为您服务</string>
+
+    <!--item1-->
+    <string name="hint">输入您的病症</string>
+    <string name="button_search">搜索</string>
+    <string name="text_default">症状对应的疾病</string>
+
 </resources>

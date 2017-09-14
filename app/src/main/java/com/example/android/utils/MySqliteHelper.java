@@ -27,7 +27,8 @@ public class MySqliteHelper extends SQLiteOpenHelper {
         Log.i(TAG, "-----onCreate()-----");
 
         String sql = "create table " + UserConstance.TABLE_NAME +
-                " (" + UserConstance.Cols.NAME + " varchar(10) primary key, " +
+                " (" + UserConstance.Cols.PHONE_NUMBER + " varchar(11) primary key, " +
+                UserConstance.Cols.NAME + " varchar(10) , " +
                 UserConstance.Cols.PASSWORD + " varchar(10))";
         sqLiteDatabase.execSQL(sql);
     }

@@ -10,6 +10,7 @@ public class UserConstance {
     public static final int VERSION = 1;
 
     public static class Cols {
+        public static final String PHONE_NUMBER = "phoneNumber";
         public static final String NAME = "name";
         public static final String PASSWORD = "password";
     }
